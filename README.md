@@ -25,10 +25,10 @@
 5. Others:
 * where do we use `sales` tables? I only found the some relationship pointing to `call`. 
 
-6. Drafted tables(not finial)
+6. Drafted tables
 * org(rd id, rd name,ad id, ad name, dm id, dm name, mr id, mr name)
 * time(month, mtd, circle, cycle, ytd)
-* physician(id, gender, department, title, segment, hosptial id, hosptial name, call plan, dbgm, device, is_opt_in,) can a doctor register more than one device?
-* physician_mr(mr id, physician id, brand id, opt_in)
-* wechat(id, mr id, brand id, physician id, is_read, duration, content) 
+* physician(id, gender, department, title, segment, hospital id, hospital name, call plan, dbgm, device, is_opt_in,) can a doctor register more than one device?
+* physician_mr(mr id, physician id, brand id, brand name, opt_in)
+* wechat(id, mr id, brand id, brand name, physician id, is_read, duration, content) 
   
