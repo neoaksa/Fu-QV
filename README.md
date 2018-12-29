@@ -1,4 +1,14 @@
 # Fu-QV
+### @20181229
+#### Problem:
+* How could `events` map to `org`? It seems they are matching each other in RM level, but the data is a mess which mixed other information. 
+* Clarify the defination of `User Day` and `CFR`
+
+
+#### QV model v0.1
+![img](/imgs/QV_Model.jpg)
+
+
 ### @20181228
 1. Overview-page1
 * Opt in# = the number of physician marked with `opt in`, then what is `opt out` if we've never keep the historical data?
