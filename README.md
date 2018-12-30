@@ -6,7 +6,7 @@
 
 
 #### QV model v0.1
-![img](/imgs/QV_Model.jpg)
+![img](/imgs/QV_Modelv0.2.jpg)
 
 
 ### @20181228
