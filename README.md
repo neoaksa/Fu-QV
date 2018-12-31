@@ -4,7 +4,14 @@
 ![img](/imgs/Capture1.PNG)
 
 #### Problem
-
+* In order to calculate `send#`, `open#`, `click#` and their corresponding ratios, we need to know the scope of physicians. e.g, when I design the `Opt in status` and `Interaction`, I use the number of all physicians including whom are not target. But in the section of `KPI Analysis`, I filtered target physicians(call_plan > 0). 
+* equation of `user day`
+* Only one month data in `wechat summary`
+* compared with the opt-in/out physicians, the size of all physicians is too huge, so that we barely see the other three ones underneath( I hide the block for all physicians).
+* Give me more details about `Trend` in the container. `Opt in`- no time dimension
+* equation of `Sent Covera%`, does it mean send#/all target physician?
+* ADD Time dimension in QV
+* Only few org can be matched to wechat records, which leads to pretty hard to do verification work.
 
 ### @20181229
 #### Problem:
