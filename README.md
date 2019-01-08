@@ -1,4 +1,11 @@
 # Fu-QV
+### @20190107
+#### Task
+* Section section: physician analysis
+* wechat should arrgraged by day rather than month
+* historial org data
+
+
 ### @20181230
 #### First Version
 ![img](/imgs/Capture1.PNG)
