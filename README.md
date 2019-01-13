@@ -1,4 +1,9 @@
 # Fu-QV
+### @20190110
+1. add physician dashboards
+![img](/imgs/physician.PNG)
+
+
 ### @20190107
 #### Task
 * Section section: physician analysis
